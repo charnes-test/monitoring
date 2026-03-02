@@ -1,6 +1,6 @@
-# Система мониторинга сервера (Prometheus + Grafana)
+# Система мониторинга (Prometheus + Grafana)
 
-Данный проект представляет собой готовое решение для мониторинга системных ресурсов (CPU, RAM, Disk I/O, Network) с использованием стека Prometheus и Grafana. Развертывание осуществляется в контейнерах Docker.
+Данный проект представляет собой мониторинг системных ресурсов (CPU, RAM, Disk I/O, Network) с использованием стека Prometheus и Grafana. Развертывание осуществляется в контейнерах Docker.
 
 ## Описание архитектуры
 
@@ -23,7 +23,7 @@
 
 1.  Клонирование репозитория:
     ```bash
-    git clone https://github.com/ВАШ_НИК/monitoring-prometheus.git
+    git clone https://github.com/charnes-test/monitoring.git
     cd monitoring-prometheus
     ```
 
